@@ -1,0 +1,8 @@
+terraform/
+kubernetes/kubectl
+test.txt
+*.pem
+*.tfstate
+*.tfstate.backup
+.terraform/
+node_modules/
